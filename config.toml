@@ -1,0 +1,13 @@
+baseurl = "http://evadeesteban.github.io"
+languageCode = "en-us"
+title = "Eva withs Calamares"
+
+theme = "hugo-theme-casper"
+
+publishDir = "docs"
+
+[params]
+	author = "Eva de Esteban"
+	description = "Calamares"
+	github = "https://github.com/evadeesteban"
+
