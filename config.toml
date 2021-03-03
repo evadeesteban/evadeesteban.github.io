@@ -10,4 +10,5 @@ publishDir = "docs"
 	author = "Eva de Esteban"
 	description = "Calamares"
 	github = "https://github.com/evadeesteban"
-
+[Permalinks]
+    post = "/:content/"
